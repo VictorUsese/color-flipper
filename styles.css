@@ -1,0 +1,11 @@
+.nav-center{
+	list-style-type: none;
+	display: inline;
+	
+}
+
+.nav-links{
+	list-style-type: none;
+	background-position: center;
+	clear: both;
+}
